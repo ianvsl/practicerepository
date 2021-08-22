@@ -1,5 +1,3 @@
 This is a sample text for Git training
 
 Here is a new line I updated after git commit 
-
-Third line for next commit
